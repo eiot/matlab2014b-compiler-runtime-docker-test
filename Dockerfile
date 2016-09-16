@@ -11,5 +11,3 @@ ENV LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/MATLAB/MATLAB_Compiler_Runtime/v
 ENV XAPPLRESDIR=/usr/local/MATLAB/MATLAB_Compiler_Runtime/v84/X11/app-defaults
 ENV MCR_CACHE_VERBOSE=true
 ENV MCR_CACHE_ROOT=/tmp
-
-[![](https://images.microbadger.com/badges/image/eiot/matlab2014b-compiler-runtime-docker-test.svg)](https://microbadger.com/images/eiot/matlab2014b-compiler-runtime-docker-test "Get your own image badge on microbadger.com")
